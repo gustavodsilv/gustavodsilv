@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil BR
 
-<!--
-**gustavodsilv/gustavodsilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gustavo da Silva
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na [Alura](https://WWW.alura.com.br).
+- Estou me desenvolvendo na línguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
+- 
+-  ### Você pode entrar em contato comigo mailbox
+-  
+-  00001109744687sp@al.educacao.sp.gov.br
+- 
+-  @gustavkjkj
+-  
